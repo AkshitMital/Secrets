@@ -1,4 +1,4 @@
-# Secrets Revealer Project
+# Secrets Project
 
 Welcome to the Secrets Revealer project repository! This project demonstrates an interactive web application that reveals secrets when hovering over dynamically generated cards. The application is built using a stack of technologies including JavaScript, Node.js, Express.js, Axios, EJS, and CSS.
 
