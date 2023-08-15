@@ -7,9 +7,7 @@ Welcome to the Secrets Revealer project repository! This project demonstrates an
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## About the Project
 
